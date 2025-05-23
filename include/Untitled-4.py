@@ -1,23 +1,23 @@
-def main():
-    print("Hello, World!")
+def 메인():
+    print("안녕하세요!")
 
 if __name__ == "__main__":
-    main()
+    메인()
                 
-            # The code demonstrates fundamental Python concepts including:
-            #    - Basic arithmetic operations (+, *)
-            #    - Conditional logic (if, elif, else)
-            #    - String formatting
-            #    - Print statements
-            #    - Comments for code documentation
-# Simple code to add two numbers
+            # 코드는 다음과 같은 기본적인 파이썬 개념을 보여줍니다:
+            #    - 기본 산술 연산 (+, *)
+            #    - 조건문 (if, elif, else)
+            #    - 문자열 포맷팅
+            #    - 출력문
+            #    - 코드 문서화를 위한 주석
+# 두 숫자를 더하는 간단한 코드
 
-# Define two numbers
-num1 = 5
-num2 = 7
+# 두 숫자 정의
+숫자1 = 5
+숫자2 = 7
 
-# Add the numbers
-sum = num1 + num2
+# 숫자 더하기
+합계 = 숫자1 + 숫자2
 
-# Print the result
-print("The sum is:", sum)
+# 결과 출력
+print("합계는:", 합계)
